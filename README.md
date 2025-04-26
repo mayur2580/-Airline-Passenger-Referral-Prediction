@@ -28,9 +28,14 @@ positive word-of-mouth and foster a strong brand reputation.
 
 4. Competitive Edge: 
 By continuously refining their services based on customer feedback, IndiGo can differentiate 
-itself from competitors and strengthen its position in the market. 
-Main Libraries to be Used: 
+itself from competitors and strengthen its position in the market.
+
+### Main Libraries to be Used: 
+
 ● Pandas for data manipulation, aggregation 
+
 ● Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable 
+
 ● NumPy for computationally efficient operations 
+
 ● Scikit Learn for model training, model optimization, and metrics calculation
